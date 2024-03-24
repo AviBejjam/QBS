@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <h1>Upload Your PDF files here</h1>
+
+    <form method='POST' enctype='multipart/form-data' id="uploadForm">
+        {{ form.hidden_tag() }}
+        <input type="file" name="file[]" id="fileInput" multiple accept=".pdf">
+        <br>
+        <h1></h1>
+        <button type="submit" id="submitBtn">Upload File(s)</button>
+    </form>
+    
+    <hr>
+    <div id="uploadedFiles">
+        <h2>Uploaded Files:</h2>
+        <ol>
+            {% for file in uploaded_files %}
+            <li><a href="{{ url_for('uploaded_file', filename=file) }}" target="_blank">{{ file }}</a></li>
+            {% endfor %}
+        </ol>
+    </div>
+</body>
+</html>
