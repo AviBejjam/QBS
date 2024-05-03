@@ -37,7 +37,6 @@ app.get("/extractText",(req,res)=>{
 });
 
 // Use multer middleware for handling file uploads
-// Use multer middleware for handling file uploads
 app.post('/extractText', upload.single('pdfFile'), async (req, res) => {
     let readStream;
 
@@ -65,10 +64,6 @@ app.post('/extractText', upload.single('pdfFile'), async (req, res) => {
         fs.writeFileSync(queryFilePath, query);
 
         res.redirect("/extractText");
-        
-        // Rest of your code...
-
-        
 
         // Create PDF Services credentials
         const credentials = new ServicePrincipalCredentials({

@@ -19,8 +19,6 @@ fs.readdir(directoryPath, (err, files) => {
         // Append the file to the FormData object
         formData.append('files[]', fileStream, { filename: file });
     });
-
-    // Now you can use the formData object with all files added
 });
 
 

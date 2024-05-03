@@ -1,0 +1,624 @@
+{
+  "version": {
+    "json_export": "202",
+    "page_segmentation": "5",
+    "schema": "1.1.0",
+    "structure": "1.1085.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "A2 C0 B5 CB C6 B9 B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "ID_permanent": "37 41 20 35 39 20 42 34 20 43 42 20 43 36 20 42 39 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "has_acroform": false,
+    "has_embedded_files": false,
+    "is_XFA": false,
+    "is_certified": false,
+    "is_encrypted": false,
+    "is_digitally_signed": false,
+    "language": "en-GB",
+    "page_count": 1,
+    "pdf_version": "1.6",
+    "pdfa_compliance_level": "",
+    "pdfua_compliance_level": ""
+  },
+  "elements": [
+    {
+      "Bounds": [
+        72.02400207519531, 753.75927734375, 467.7705993652344, 769.4279174804688
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 87,
+      "Page": 0,
+      "Path": "//Document/Sect/Title",
+      "Text": "Syllabus: Foundations of Natural Language Processing \u2013 CS 3101 ",
+      "TextSize": 14.039993286132812,
+      "attributes": { "LineHeight": 16.875, "SpaceAfter": 7.75 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 732.0039978027344, 161.89999389648438,
+        745.39599609375
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 88,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/H1",
+      "Text": "Credits: 3 \u2013 0 \u2013 0 ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 18 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 687.3880004882812, 237.75820922851562,
+        698.10400390625
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 90,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Sect/H2",
+      "Text": "Module-1: Introduction (2-3 L) ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 9.125 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 623.0679931640625, 526.4920959472656,
+        675.3760070800781
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 91,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Sect/P",
+      "Text": "What is Language? What is Natural Language Processing?; Why NLP? - Applications/ Motivation; Understanding Language- The Turing test, The Chinese Room Argument; Ambiguity and other Challenges in language. - Non-Standard English, Slangs, Neologism, Bias/Stereotypes, Exclusion and others. ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 7.5 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 601.2279968261719, 314.12591552734375,
+        611.9440002441406
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 93,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Sect[2]/H2",
+      "Text": "Module-2: Probabilistic Language Model (3 L) ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 7.875 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 563.5180053710938, 526.1780853271484,
+        591.7660064697266
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 94,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Sect[2]/P",
+      "Text": "Zipf\u2019s law, Collocations, Language Models: n-grams, Probability Estimation, Unknown words, smoothing, Evaluation ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8.5 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 540.5980072021484, 296.0782165527344,
+        551.3139953613281
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 96,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Sect[3]/H2",
+      "Text": "Module-3: Morphology & Syntax (10-12 L) ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 458.1580047607422, 526.5339965820312,
+        528.5859985351562
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 97,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Sect[3]/P",
+      "Text": "Word Morphology - tokenisation, boundary detection, Stemming vs Lemmatization, Porter Stemmer, Text Normalization, Spelling Correction (String Edit Distance) -LCS; Word Class: Part of Speech Tagger- HMM & Viterbi; Parsing \u2013 Constituent (CKY parsing) vs Dependency Parsing, PCFG, Scope Ambiguity and Attachment Ambiguity Resolution; Named Entity Recognition, Evaluation (Exact vs Relaxed match). ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8.625 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 435.21800231933594, 265.1182098388672,
+        445.9340057373047
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 98,
+      "Page": 0,
+      "Path": "//Document/Sect[3]/H1",
+      "Text": "Module-4: Text Classification (1-2 L) ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 397.4179992675781, 526.4199981689453,
+        423.20599365234375
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 99,
+      "Page": 0,
+      "Path": "//Document/Sect[3]/P",
+      "Text": "Text Classification (sentiment, abstract vs concrete (psycholinguistics), Hate vs not hate), Policies (hopeful vs critical) ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8.5 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 374.4980010986328, 282.6859130859375,
+        385.21400451660156
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 101,
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect/H2",
+      "Text": "Module-5: Semantics & Meaning (5-6 L) ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 321.8179931640625, 526.4079132080078,
+        362.4859924316406
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 102,
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect/P",
+      "Text": "Meaning Representation; Lexical Semantics: Word Sense, Semantic Relations, Relation Extraction, Hearst Patterns, Distant Supervision; Word similarity vs relatedness, Sense disambiguation, Selectional Preference. Figurative texts (Contextual Incongruity); Pragmatics? ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8.375 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 299.01800537109375, 266.4859161376953,
+        309.73399353027344
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 137,
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect[2]/H2",
+      "Text": "Module-6: Word Embeddings (2-4 L) ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 261.18800354003906, 526.35400390625,
+        287.00599670410156
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-ItalicMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 104,
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect[2]/P",
+      "Text": "Bag of words, TF-IDF, Term-context Matrix, PPMI Word Embeddings, word2vec, Evaluating Word embeddings- Analogy, Similarity, Emotion ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8.5 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 238.26800537109375, 233.96591186523438,
+        248.98399353027344
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 139,
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect[3]/H2",
+      "Text": "Module-7: Applications (3-4 L) ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8.5 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 215.34800720214844, 490.17999267578125,
+        226.25599670410156
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 106,
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect[3]/P",
+      "Text": "Applications such as Text Summarization, Machine Translation, Question-Answering. ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8.5 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 192.42799377441406, 169.5800018310547,
+        203.1439971923828
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "ObjectID": 107,
+      "Page": 0,
+      "Path": "//Document/Sect[4]/H1",
+      "Text": "Books/References: ",
+      "TextSize": 12.0,
+      "attributes": { "SpaceAfter": 8.375 }
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 169.6280059814453, 91.61990356445312,
+        180.53599548339844
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 108,
+      "Page": 0,
+      "Path": "//Document/Sect[4]/L/LI/Lbl",
+      "Text": "(A) ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        91.58399963378906, 169.6280059814453, 451.4040832519531,
+        180.53599548339844
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 109,
+      "Page": 0,
+      "Path": "//Document/Sect[4]/L/LI/LBody",
+      "Text": "Speech and Language Processing by Daniel Jurafsky and James H. Martin ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 146.70799255371094, 90.89991760253906,
+        157.61599731445312
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 110,
+      "Page": 0,
+      "Path": "//Document/Sect[4]/L/LI[2]/Lbl",
+      "Text": "(B) ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        90.86399841308594, 146.70799255371094, 526.2699127197266,
+        157.61599731445312
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 111,
+      "Page": 0,
+      "Path": "//Document/Sect[4]/L/LI[2]/LBody/ParagraphSpan",
+      "Text": "Natural Language Processing with Python. (updated edition based on Python 3 and NLTK ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        72.02400207519531, 131.8280029296875, 82.01991271972656,
+        142.73599243164062
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 112,
+      "Page": 0,
+      "Path": "//Document/Sect[4]/L/LI[2]/LBody/L/LI/Lbl",
+      "Text": "3)",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        82.02000427246094, 131.8040008544922, 249.8280029296875,
+        145.1959991455078
+      ],
+      "Font": {
+        "alt_family_name": "Times New Roman PSMT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Times New Roman PSMT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 113,
+      "Page": 0,
+      "Path": "//Document/Sect[4]/L/LI[2]/LBody/L/LI/LBody",
+      "Text": " Steven Bird et al. O\u2019Reilly Media ",
+      "TextSize": 12.0
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [0.0, 0.0, 595.3200073242188, 841.9199829101562],
+        "MediaBox": [0.0, 0.0, 595.3200073242188, 841.9199829101562]
+      },
+      "height": 841.9199829101562,
+      "is_scanned": false,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 595.3200073242188
+    }
+  ]
+}
