@@ -1,0 +1,48 @@
+Computational Biology 
+Credits \u2013 3 
+L-T-P 
+2-0-2 
+Course objectives 
+1. 
+Articulate importance & application of Computational Biology & Bioinformatics. 
+2. 
+Understanding biological data of diverse types and their retrieval from various biological databases. 
+3. 
+Develop computational workflows using bioinformatics techniques & tools used for analysis of biological data and interpret the results. 
+4. 
+Familiarize with computational methods for biological sequence and structure analysis. 
+5. 
+Perform biological sequence alignments and interpret the results. 
+6. 
+Prediction of gene, RNA structure, and protein structure & function. 
+7. 
+Familiarize with computational methods for performing evolutionary studies. 
+Course content 
+Module I: Computational Biology & Bioinformatics 
+History, importance & applications of computational biology & bioinformatics. 
+Module II: Biological Databases 
+Biological data, importance of biological databases & their biological design basis, file formats & types (primary, secondary, sequence, structure & other), information retrieval from various biological databases, databases of nucleic acids sequence & structure, protein sequence & structure, chemical structures, biological networks & metabolic pathways, biomedical image databases. Practical importance of biological databases in different segments of healthcare, pharmaceutical and biotech industries. 
+Module III: Sequence Alignment 
+Practical importance of aligning two or more than 2 genes/ genome sequences, Biological sequences alignment principles, its importance & applications, different alignment techniques (dot matrix, dynamic programming, heuristics), scoring matrices (BLOSUM & PAM), gaps, global versus local sequence alignment, pairwise sequence alignment & its methods, tools of similarity searches (BLAST, PSI-BLAST, & FASTA), multiple sequence alignment (practical issues, methods & tools: Clustal Omega, TCoffee, MUSCLE). 
+Module IV: Genome Annotation 
+Why need of genome annotation, Biological basis of gene prediction & its importance, pattern recognition, gene prediction using bioinformatics tools (Ab initio, homology based, statistical & HMM based gene prediction approaches), tools of gene prediction. 
+Module V: RNA and Protein Structure Prediction 
+Introduction & importance, secondary structure of RNA, methods of RNA secondary structure prediction & tools. Protein structural hierarchy, super secondary structures, structure determination, protein folding, sequence structure relation, methods of protein secondary structure prediction (ab initio modeling, threading, homology modeling), structure evaluation, 
+protein structure visualization tools, structure function relation, protein function prediction, motifs & domains. Introduction, importance & applications of patterns, motifs, and profiles, PROSITE, BLOCKS, PRINTS, Pfam. How to utilize RNA/Protein structures in drug designing and discovery with case studies of commercial importance 
+Module VI: Evolutionary studies 
+Importance & applications, methods of phylogenetic analysis (distance & character based), tree construction & topologies, tools for tree visualization. 
+Module VII: Biological Modelling & Biomedical Image Analysis 
+Computer models of population dynamics, biochemical kinetics, cell pathways, etc. Morphological image analysis, image classification and image-derived models for sue in clinical decision support systems 
+Recommended Books 
+1. 
+Baxevanis, Andreas D., Gary D. Bader, and David S. Wishart, eds. Bioinformatics. John Wiley & Sons, 2020. 
+2. 
+Zvelebil, Marketa J., and Jeremy O. Baum. Understanding bioinformatics. Garland Science, 2007. 
+3. 
+Agostino, Michael. Practical Bioinformatics. Garland Science, 2012. 
+4. 
+Tramontano, Anna. Introduction to bioinformatics. Chapman and Hall/CRC, 2007. 
+5. 
+Pevsner, Jonathan. Bioinformatics and functional genomics. John Wiley & Sons, 2015 
+6. 
+Rastogi, S. C., Parag Rastogi, and Namita Mendiratta. Bioinformatics: Methods and Applications-Genomics, Proteomics and Drug Discovery. PHI Learning Pvt. Ltd., 2022. 
