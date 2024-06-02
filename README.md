@@ -1,3 +1,3 @@
 **Query Based Summarization**
 ***Blog for the Project:***
-*AviBejjam.github.io*
+*[AviBejjam.github.io](https://avibejjam.github.io/)*
